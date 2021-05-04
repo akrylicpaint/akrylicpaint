@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github Trophys 🏆 
+[![trophy](https://github-profile-trophy.vercel.app/?username=no1opensourcelover&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)
