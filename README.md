@@ -1,7 +1,7 @@
 ###  வணக்கம் நண்பா(Vanakkam Nanba - Hello Friend)  👋
 
 
-[![Badge](https://img.shields.io/badge/Email-no.1opensourcelover%40protonmail.com-informational?link)](mailto:no.1opensourcelover@protonmail.com)  [![Badge](https://img.shields.io/badge/Telegram-%40opensourcelover-9cf)](https://t.me/opensourcelover)
+[![Badge](https://img.shields.io/badge/Email-no.1opensourcelover%40protonmail.com-informational?link)](mailto:no.1opensourcelover@protonmail.com) [![Badge](https://img.shields.io/badge/Telegram-%40fosslover-9cf)](https://t.me/fosslover)
 
 
 - 🌱 I’m currently learning about Android ROM Development, FOSS and Cyber Security.
@@ -10,10 +10,10 @@
 
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=no1opensourcelover&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/no1opensourcelover/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=no1opensourcelover&layout=compact&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/no1opensourcelover/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=akrylicpaint&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/akrylicpaint/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrylicpaint&layout=compact&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/no1opensourcelover/github-readme-stats)
 
 <!--
-**no1opensourcelover/no1opensourcelover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akrylicpaint/akrylicpaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 -->
 
 ### Github Trophys 🏆 
-[![trophy](https://github-profile-trophy.vercel.app/?username=no1opensourcelover&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akrylicpaint&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)
