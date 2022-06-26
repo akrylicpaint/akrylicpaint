@@ -10,7 +10,7 @@
 
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=akrylicpaint&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/akrylicpaint/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrylicpaint&layout=compact&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/no1opensourcelover/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fosslover69&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/fosslover69/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fosslover69&layout=compact&include_all_commits=true&count_private=true&theme=vue-dark)](https://github.com/fosslover69/github-readme-stats)
 
 <!--
 **akrylicpaint/akrylicpaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 -->
 
 ### Github Trophys 🏆 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akrylicpaint&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fosslover69&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)
